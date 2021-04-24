@@ -1,0 +1,7 @@
+Three main conclusions from Pymaceuticals data analysis:
+
+-The distribution of data was very even. There was an almost perfect split of male and female. There was also an almost perfect split of mouse per drug regimen. This eliminates these factors when performing analysis.
+
+-Capomulin and Ramicane are the top performing drug regimens. This is shown through their average final tumor volume which is significantly lower than the rest of the treatments.
+
+-There is not a correlation between tumor volume and weight. This is shown in our scatter plot and our correlation value of -.23.
